@@ -9,11 +9,11 @@
   
   ### Skills
    
-  -Programming languages: C, C++, Basics of Python, html, CSS, Matlab, embedded C.
-  -Hardware description languages: Verilog and VHDL.
-  -Tools used: MAT Lab, Xilinx, Keil, Codeblock, MIcrosoft Office,Kicad.
-  -Hardware: Arduino, Raspberry Pi, FPGA.
-  -Operating System: Linux, Ubuntu, Windows, Fedora.
+  Programming languages: C, C++, Basics of Python, html, CSS, Matlab, embedded C.
+  Hardware description languages: Verilog and VHDL.
+  Tools used: MAT Lab, Xilinx, Keil, Codeblock, MIcrosoft Office,Kicad.
+  Hardware: Arduino, Raspberry Pi, FPGA.
+  Operating System: Linux, Ubuntu, Windows, Fedora.
   
   ### My Strength
   
