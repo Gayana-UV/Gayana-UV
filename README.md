@@ -18,3 +18,5 @@
   ### My Strength
   
 I enjoy working in team or a group and I feel my collaborative nature is my biggest strength. During every single academic project, I worked side-by-side with every member involved to achieve the target. By nature, I am an empathetic person and I can relate to people and understand their needs easily. Also, I work well under pressure and I have never missed a deadline in my academic years.
+
+[My blog] (https://gayanauv.blogspot.com/)
