@@ -5,7 +5,7 @@
 
 ### About Me
 
-  My name is Gayana U V. I am basically from Koppa, Chikkamagalur and presently studying in Mangalore. My latest educational qualification is a full time BE in ELectronics and Communication from Yenepoya Institute of Technology, Mangalore that will complete in July-2021. My CGPA out of 10 is 7.8. I developed a number of skills and got ample exposure during my internship(s) with TRAINIDENT which lasted totally for 1month(s). I worked ardently on the Python and Raspberry Pi.
+  My name is Gayana U V. I am basically from Koppa, Chikkamagalur. My latest educational qualification is a full time BE in ELectronics and Communication from Yenepoya Institute of Technology, Mangalore that was completed in July-2021. My CGPA out of 10 is 7.8. I developed a number of skills and got ample exposure during my internship(s) with TRAINIDENT which lasted totally for 1month(s). I worked ardently on the Python and Raspberry Pi.
   
   ### Skills
    
